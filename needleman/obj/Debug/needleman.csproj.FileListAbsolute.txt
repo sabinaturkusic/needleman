@@ -1,0 +1,15 @@
+C:\Users\turku\Documents\Campus\Bioinformatik\Unterlagen\2. Semester\Softwareentwicklung VO + UE\Abgabe\needlec#\needleman\needleman\bin\Debug\needleman.exe.config
+C:\Users\turku\Documents\Campus\Bioinformatik\Unterlagen\2. Semester\Softwareentwicklung VO + UE\Abgabe\needlec#\needleman\needleman\bin\Debug\needleman.exe
+C:\Users\turku\Documents\Campus\Bioinformatik\Unterlagen\2. Semester\Softwareentwicklung VO + UE\Abgabe\needlec#\needleman\needleman\bin\Debug\needleman.pdb
+C:\Users\turku\Documents\Campus\Bioinformatik\Unterlagen\2. Semester\Softwareentwicklung VO + UE\Abgabe\needlec#\needleman\needleman\obj\Debug\needleman.csprojAssemblyReference.cache
+C:\Users\turku\Documents\Campus\Bioinformatik\Unterlagen\2. Semester\Softwareentwicklung VO + UE\Abgabe\needlec#\needleman\needleman\obj\Debug\MainWindow.g.cs
+C:\Users\turku\Documents\Campus\Bioinformatik\Unterlagen\2. Semester\Softwareentwicklung VO + UE\Abgabe\needlec#\needleman\needleman\obj\Debug\App.g.cs
+C:\Users\turku\Documents\Campus\Bioinformatik\Unterlagen\2. Semester\Softwareentwicklung VO + UE\Abgabe\needlec#\needleman\needleman\obj\Debug\needleman_MarkupCompile.cache
+C:\Users\turku\Documents\Campus\Bioinformatik\Unterlagen\2. Semester\Softwareentwicklung VO + UE\Abgabe\needlec#\needleman\needleman\obj\Debug\needleman_MarkupCompile.lref
+C:\Users\turku\Documents\Campus\Bioinformatik\Unterlagen\2. Semester\Softwareentwicklung VO + UE\Abgabe\needlec#\needleman\needleman\obj\Debug\MainWindow.baml
+C:\Users\turku\Documents\Campus\Bioinformatik\Unterlagen\2. Semester\Softwareentwicklung VO + UE\Abgabe\needlec#\needleman\needleman\obj\Debug\needleman.g.resources
+C:\Users\turku\Documents\Campus\Bioinformatik\Unterlagen\2. Semester\Softwareentwicklung VO + UE\Abgabe\needlec#\needleman\needleman\obj\Debug\needleman.Properties.Resources.resources
+C:\Users\turku\Documents\Campus\Bioinformatik\Unterlagen\2. Semester\Softwareentwicklung VO + UE\Abgabe\needlec#\needleman\needleman\obj\Debug\needleman.csproj.GenerateResource.cache
+C:\Users\turku\Documents\Campus\Bioinformatik\Unterlagen\2. Semester\Softwareentwicklung VO + UE\Abgabe\needlec#\needleman\needleman\obj\Debug\needleman.csproj.CoreCompileInputs.cache
+C:\Users\turku\Documents\Campus\Bioinformatik\Unterlagen\2. Semester\Softwareentwicklung VO + UE\Abgabe\needlec#\needleman\needleman\obj\Debug\needleman.exe
+C:\Users\turku\Documents\Campus\Bioinformatik\Unterlagen\2. Semester\Softwareentwicklung VO + UE\Abgabe\needlec#\needleman\needleman\obj\Debug\needleman.pdb

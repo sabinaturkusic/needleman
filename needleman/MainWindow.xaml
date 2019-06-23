@@ -1,0 +1,26 @@
+﻿<Window x:Class="needleman.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:needleman"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="#CC83A1A7" OpacityMask="Black">
+        <TextBlock HorizontalAlignment="Center" Margin="564,83,153,0" TextWrapping="Wrap" Text="Sequence A" VerticalAlignment="Top" Height="18" Width="78" FontFamily="MV Boli" FontSize="14"/>
+        <TextBlock HorizontalAlignment="Center" Margin="564,124,153,0" TextWrapping="Wrap" Text="Sequence B" VerticalAlignment="Top" FontFamily="MV Boli" Width="78" FontSize="14"/>
+        <TextBox Name="seqa" HorizontalAlignment="Left" Height="21" Margin="154,80,0,0" TextWrapping="Wrap" Text="Please enter your first sequence." VerticalAlignment="Top" Width="361" FontFamily="Yu Gothic Light" BorderBrush="#FF83A1A7" Background="#FFF2FAFC"/>
+        <TextBox Name="seqb" HorizontalAlignment="Left" Height="21" Margin="154,124,0,0" TextWrapping="Wrap" Text="Please enter your first sequence." VerticalAlignment="Top" Width="361" FontFamily="Yu Gothic Light" BorderBrush="#FF83A1A7" Background="#FFF2FAFC"/>
+        <TextBlock HorizontalAlignment="Left" Margin="154,182,0,0" TextWrapping="Wrap" Text="Match" VerticalAlignment="Top" FontSize="14" FontFamily="MV Boli"/>
+        <TextBlock HorizontalAlignment="Left" Margin="279,182,0,0" TextWrapping="Wrap" Text="Mismatch" VerticalAlignment="Top" FontFamily="MV Boli" FontSize="14"/>
+        <TextBlock HorizontalAlignment="Left" Margin="408,182,0,0" TextWrapping="Wrap" Text="Gap" VerticalAlignment="Top" FontFamily="MV Boli" FontSize="14"/>
+        <TextBox Name="match" HorizontalAlignment="Left" Height="22" Margin="154,216,0,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top" Width="33" RenderTransformOrigin="0.439,-1" IsReadOnly="True" FontFamily="MV Boli" BorderBrush="#FF83A1A7" Background="#FFF2FAFC"/>
+        <TextBox Name="mismatch" HorizontalAlignment="Left" Height="22" Margin="279,216,0,0" TextWrapping="Wrap" Text="-1" VerticalAlignment="Top" Width="33" IsReadOnly="True" FontFamily="MV Boli" BorderBrush="#FF83A1A7" Background="#FFF2FAFC"/>
+        <TextBox Name="gap" HorizontalAlignment="Left" Height="22" Margin="408,216,0,0" TextWrapping="Wrap" Text="-2" VerticalAlignment="Top" Width="33" IsReadOnly="True" FontFamily="MV Boli" BorderBrush="#FF83A1A7" Background="#FFF2FAFC"/>
+        <TextBlock HorizontalAlignment="Left" Margin="154,268,0,0" TextWrapping="Wrap" Text="Optimal Alignment" VerticalAlignment="Top" Width="177" FontFamily="MV Boli" FontSize="14"/>
+        <TextBox Name="output" HorizontalAlignment="Left" Height="65" Margin="154,311,0,0" TextWrapping="Wrap" Text="Your optimal alignment." VerticalAlignment="Top" Width="435" FontFamily="Yu Gothic Light" BorderBrush="#FF83A1A7" Background="#FFF2FAFC"/>
+        <Label Content="Needleman-Wunsch-Algorithm" HorizontalAlignment="Left" Height="47" Margin="20,18,0,0" VerticalAlignment="Top" Width="452" FontWeight="Bold" FontFamily="MV Boli" FontSize="18"/>
+        <Button Content="Align" HorizontalAlignment="Left" Margin="515,212,0,0" VerticalAlignment="Top" Width="74" Click="Button_Click" FontFamily="MV Boli" FontSize="14" Background="#FFF2FAFC"/>
+
+    </Grid>
+</Window>
